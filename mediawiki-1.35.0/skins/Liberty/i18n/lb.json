@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"skinname-liberty": "Fräiheet",
+	"liberty-feed-new": "[Nei]",
+	"liberty-forgot-pw": "Hutt Dir Äert Passwuert vergiess?",
+	"liberty-login": "Aloggen",
+	"liberty-login-btn": "Aloggen",
+	"liberty-info": "Informatioun",
+	"liberty-purge": "Botzen",
+	"liberty-recent-discussions": "Rezent Diskussiounen",
+	"liberty-remember": "Mäi Login verhalen",
+	"liberty-share": "Deelen",
+	"liberty-view-more": "Méi weisen",
+	"prefs-color": "Faarwastellung",
+	"liberty-pref-fonts-helplabel": "Hëllef"
+}
